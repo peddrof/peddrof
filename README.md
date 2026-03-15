@@ -1,5 +1,5 @@
 # Pedro 👋
-**Full-Stack Developer & Entrepreneur** | ✉️ [pedro@pv2co.com](mailto:pedro@pv2co.com)
+**Full-Stack Developer & Entrepreneur** | [pedro@pv2co.com](mailto:pedro@pv2co.com)
 
 Building scalable solutions at the intersection of web development, business, and AI.
 
