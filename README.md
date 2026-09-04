@@ -1,13 +1,7 @@
-# 👋 Pedro!
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+👋, Pedro!
 
-**Full-Stack Developer & Entrepreneur**
+Building [Sincra](https://sincra.app) — software for healthcare operations.
 
-### Current Focus
-* **Medical Shift SaaS:** Building a comprehensive hospital scheduling system.
-* **Voluntaria+:** Co-founder & Lead Full-Stack Dev for NGO connection platform.
-* **AI Research:** Deepening knowledge in computational models (Alumni: SDumont supercomputer & Brazilian AI Olympiad).
+Into AI, software systems, startups, and the occasional unnecessarily hard problem.
 
-### Quick Facts
-* **Learning:** Advanced AI applications & preparing for AI academic pursuits.
-* **AFK:** Catch me at the gym, a coffee shop, or flying around the 25˚S 50˚W airspace!
+Currently working mostly with **TypeScript, Next.js, Postgres, Supabase and Python**.
